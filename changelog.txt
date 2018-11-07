@@ -1,0 +1,7 @@
+﻿Version 1.0.0
+Version développeurs à compléter avec nom de version, nom du développeur (et contact ?)
+
+Version 1.1.0 - Nom developpeur
+- ajout 1
+- ajout 2
+- ...

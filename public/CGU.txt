@@ -1,0 +1,27 @@
+﻿Conditions Générales d'Utilisation de OneID pour les Particuliers
+1. Objet
+L'objet des Conditions Générales d'Utilisation pour les Particuliers (ci-après « CGU Particuliers ») est d'encadrer les conditions d'utilisation de OneID. Ce Service est proposé par Imagine, société par actions simplifiée enregistrée à Melun, sous le numéro de RCS 797 865 102 au capital de 5000 €, établie au 1 Allée du Château, 77140 Darvault, ci-après dénommée « OneID » ou « Imagine » titulaire de la marque OneID. 
+
+2. Conditions préalables
+2.1 Prérequis matériels
+* L'utilisation du service OneID peut s'effectuer à partir :
+* De l'Application OneID à condition d'avoir un système d'exploitation mobile compatible
+* Du site web OneID : www.oneid.com
+
+2.2 Cinématique d’inscription
+2.2.1 Application OneID Utilisateur
+Le Client Particulier effectue la souscription en téléchargeant préalablement sur son Smartphone l'Application OneID réservée à la clientèle de particuliers, à partir du catalogue d'applications mobiles disponible sur son Smartphone et en l'installant avec succès.
+Le Client Particulier renseigne son nom, son prénom et sa date de naissance.
+Le Client est invité à se connecter à son application avec le mot de passe renseigné préalablement.
+
+3 Stockage et Gestion des données utilisateurs par Imagine
+L’application OneID ne conserve de manière lisible sur ses bases de données aucunes données relatives à l’utilisateur. Seules des informations personnelles peuvent transiter, et y rester moins de 3 minutes (180 secondes) sur les serveurs de OneID, localisée en Europe, et appartenant à la société Google LLC.
+L’application OneID Pro conserve uniquement l’adresse email de l’utilisateur afin de pouvoir lui communiquer des informations liées au service OneID Pro.
+Le service lié à l’Application OneID peut amener l’utilisateur à confier ses données personnelles sur les bases de données de Imagine, et ce après s’être inscrits à un évènement en scannant un QR Code. La gestion de ces données est laissée au partenaire de OneID qui propose l’inscription à son évènement en utilisant les services de Imagine.
+Imagine ne peut être tenue responsable de l’utilisation de ces données par le partenaire.
+
+4. Loi et langue applicables – Tribunaux Compétents
+Les présentes Conditions Générales Particuliers sont conclues en langue française, Imagine et le Client Particulier conviennent d'utiliser le français dans leurs relations précontractuelles et contractuelles. La loi applicable au présent Contrat est la loi française, les tribunaux compétents sont les tribunaux français.
+ 
+Date de dernière mise à jour : 20 septembre 2018
+
